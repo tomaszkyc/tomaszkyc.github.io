@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/projects/database-connection-tester/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/projects/film-details-searcher/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/projects/recognize-photo-app/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/blog/</loc>
+    <lastmod>2020-03-04T20:49:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/tags/dotnet-core/</loc>
+    <lastmod>2020-03-04T20:49:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/</loc>
+    <lastmod>2020-03-04T20:49:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/blog/link-shorter-first-project-in-dotnet-core/</loc>
+    <lastmod>2020-03-04T20:49:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/tags/microsoft/</loc>
+    <lastmod>2020-03-04T20:49:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/tags/</loc>
+    <lastmod>2020-03-04T20:49:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/tags/aspnet/</loc>
+    <lastmod>2019-12-23T18:56:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/blog/new-project-coming-to-town-about-asp-net-core/</loc>
+    <lastmod>2019-12-23T18:56:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/tags/about-author/</loc>
+    <lastmod>2019-11-11T20:57:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/tags/welcome/</loc>
+    <lastmod>2019-11-11T20:57:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/blog/welcome-post/</loc>
+    <lastmod>2019-11-11T20:57:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/series/</loc>
+  </url>
+  
+</urlset>

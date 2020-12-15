@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Introduction</title>
+    <link>https://tomaszkyc.github.io/tags/</link>
+    <description>Recent content in Tags on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Mar 2020 20:49:16 +0100</lastBuildDate><atom:link href="https://tomaszkyc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dotnet-core</title>
+      <link>https://tomaszkyc.github.io/tags/dotnet-core/</link>
+      <pubDate>Wed, 04 Mar 2020 20:49:16 +0100</pubDate>
+      
+      <guid>https://tomaszkyc.github.io/tags/dotnet-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microsoft</title>
+      <link>https://tomaszkyc.github.io/tags/microsoft/</link>
+      <pubDate>Wed, 04 Mar 2020 20:49:16 +0100</pubDate>
+      
+      <guid>https://tomaszkyc.github.io/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aspnet</title>
+      <link>https://tomaszkyc.github.io/tags/aspnet/</link>
+      <pubDate>Mon, 23 Dec 2019 18:56:27 +0100</pubDate>
+      
+      <guid>https://tomaszkyc.github.io/tags/aspnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about-author</title>
+      <link>https://tomaszkyc.github.io/tags/about-author/</link>
+      <pubDate>Mon, 11 Nov 2019 20:57:01 +0100</pubDate>
+      
+      <guid>https://tomaszkyc.github.io/tags/about-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>https://tomaszkyc.github.io/tags/welcome/</link>
+      <pubDate>Mon, 11 Nov 2019 20:57:01 +0100</pubDate>
+      
+      <guid>https://tomaszkyc.github.io/tags/welcome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
