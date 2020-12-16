@@ -29,11 +29,6 @@
   </url>
   
   <url>
-    <loc>https://tomaszkyc.github.io/</loc>
-    <lastmod>2020-03-04T20:49:16+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tomaszkyc.github.io/blog/link-shorter-first-project-in-dotnet-core/</loc>
     <lastmod>2020-03-04T20:49:16+01:00</lastmod>
   </url>
@@ -45,6 +40,11 @@
   
   <url>
     <loc>https://tomaszkyc.github.io/tags/</loc>
+    <lastmod>2020-03-04T20:49:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomaszkyc.github.io/</loc>
     <lastmod>2020-03-04T20:49:16+01:00</lastmod>
   </url>
   
