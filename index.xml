@@ -6,7 +6,7 @@
     <description>Recent content on Tomasz Kyc Webpage and Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2020 20:49:16 +0100</lastBuildDate><atom:link href="https://tomaszkyc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Dec 2020 20:49:16 +0100</lastBuildDate><atom:link href="https://tomaszkyc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Database connection tester</title>
       <link>https://tomaszkyc.github.io/projects/database-connection-tester/</link>
@@ -35,6 +35,16 @@ Click here to go to GitHub repo. 💪</description>
       <guid>https://tomaszkyc.github.io/projects/recognize-photo-app/</guid>
       <description>Simple app to recognize photo objects using Microsoft Azure Cognitive Services.
 Click here to go to GitHub repo. 💪</description>
+    </item>
+    
+    <item>
+      <title>Christmas time nad new year - time for summary</title>
+      <link>https://tomaszkyc.github.io/blog/christmas-time-and-new-year-time-for-summary/</link>
+      <pubDate>Wed, 23 Dec 2020 20:49:16 +0100</pubDate>
+      
+      <guid>https://tomaszkyc.github.io/blog/christmas-time-and-new-year-time-for-summary/</guid>
+      <description>Hello fellows. I hope you&amp;rsquo;re doing well and maybe bake some delicious christmas cakes. That was a preety long year for me. Especially when I list some events there:
+ Learning .NET Core and Angular Making diploma project and finishing my CS studies with 5.0 grade Developing my Java and Python skills Unexpected changing a job (which maybe I will describe in the future)  But now it&amp;rsquo;s time to slow down, take a deep breath and spend some time with the closed people in the world.</description>
     </item>
     
     <item>
