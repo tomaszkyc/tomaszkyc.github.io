@@ -6,7 +6,16 @@
     <description>Recent content on Tomasz Kyc Webpage and Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Dec 2020 20:49:16 +0100</lastBuildDate><atom:link href="https://tomaszkyc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Apr 2021 19:13:15 +0200</lastBuildDate><atom:link href="https://tomaszkyc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Timely</title>
+      <link>https://tomaszkyc.github.io/projects/timely/</link>
+      <pubDate>Sat, 03 Apr 2021 19:13:15 +0200</pubDate>
+      
+      <guid>https://tomaszkyc.github.io/projects/timely/</guid>
+      <description>Timely is a free countdown app which helps you measure focus time. You can see the live demo here. Check out the Github repository to find more details.</description>
+    </item>
+    
     <item>
       <title>Database connection tester</title>
       <link>https://tomaszkyc.github.io/projects/database-connection-tester/</link>
@@ -35,6 +44,17 @@ Click here to go to GitHub repo. 💪</description>
       <guid>https://tomaszkyc.github.io/projects/recognize-photo-app/</guid>
       <description>Simple app to recognize photo objects using Microsoft Azure Cognitive Services.
 Click here to go to GitHub repo. 💪</description>
+    </item>
+    
+    <item>
+      <title>Timely new Flask project</title>
+      <link>https://tomaszkyc.github.io/blog/timely-new-flask-project/</link>
+      <pubDate>Sat, 03 Apr 2021 19:05:17 +0200</pubDate>
+      
+      <guid>https://tomaszkyc.github.io/blog/timely-new-flask-project/</guid>
+      <description>Hello there!
+Today I&amp;rsquo;d like to present you my new Flask project called Timely. It came from not so popular apps to countdown time. I was searching the solution for myself to use it on mobile, desktop and tablet. I haven&amp;rsquo;t found such a good product so I make an own little app to help me with measuring my focus time.
+If you want to examine how it&amp;rsquo;s working and looking - check out the live demo of an app deployed on Google Cloud Platform.</description>
     </item>
     
     <item>

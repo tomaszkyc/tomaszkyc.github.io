@@ -5,7 +5,17 @@
     <link>https://tomaszkyc.github.io/projects/</link>
     <description>Recent content in Projects on Tomasz Kyc Webpage and Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://tomaszkyc.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 19:13:15 +0200</lastBuildDate><atom:link href="https://tomaszkyc.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Timely</title>
+      <link>https://tomaszkyc.github.io/projects/timely/</link>
+      <pubDate>Sat, 03 Apr 2021 19:13:15 +0200</pubDate>
+      
+      <guid>https://tomaszkyc.github.io/projects/timely/</guid>
+      <description>Timely is a free countdown app which helps you measure focus time. You can see the live demo here. Check out the Github repository to find more details.</description>
+    </item>
+    
     <item>
       <title>Database connection tester</title>
       <link>https://tomaszkyc.github.io/projects/database-connection-tester/</link>
