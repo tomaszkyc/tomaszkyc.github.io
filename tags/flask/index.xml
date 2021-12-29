@@ -1,22 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>flask on Tomasz Kyc Webpage and Blog</title>
-    <link>https://tomaszkyc.github.io/tags/flask/</link>
-    <description>Recent content in flask on Tomasz Kyc Webpage and Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 19:05:17 +0200</lastBuildDate><atom:link href="https://tomaszkyc.github.io/tags/flask/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Timely new Flask project</title>
-      <link>https://tomaszkyc.github.io/blog/timely-new-flask-project/</link>
-      <pubDate>Sat, 03 Apr 2021 19:05:17 +0200</pubDate>
-      
-      <guid>https://tomaszkyc.github.io/blog/timely-new-flask-project/</guid>
-      <description>Hello there!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>flask on Tomasz Kyc Webpage and Blog</title><link>https://tomaszkyc.github.io/tags/flask/</link><description>Recent content in flask on Tomasz Kyc Webpage and Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 03 Apr 2021 19:05:17 +0200</lastBuildDate><atom:link href="https://tomaszkyc.github.io/tags/flask/index.xml" rel="self" type="application/rss+xml"/><item><title>Timely new Flask project</title><link>https://tomaszkyc.github.io/blog/timely-new-flask-project/</link><pubDate>Sat, 03 Apr 2021 19:05:17 +0200</pubDate><guid>https://tomaszkyc.github.io/blog/timely-new-flask-project/</guid><description>Hello there!
 Today I&amp;rsquo;d like to present you my new Flask project called Timely. It came from not so popular apps to countdown time. I was searching the solution for myself to use it on mobile, desktop and tablet. I haven&amp;rsquo;t found such a good product so I make an own little app to help me with measuring my focus time.
-If you want to examine how it&amp;rsquo;s working and looking - check out the live demo of an app deployed on Google Cloud Platform.</description>
-    </item>
-    
-  </channel>
-</rss>
+If you want to examine how it&amp;rsquo;s working and looking - check out the live demo of an app deployed on Google Cloud Platform.</description></item></channel></rss>

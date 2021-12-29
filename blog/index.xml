@@ -1,63 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog on Tomasz Kyc Webpage and Blog</title>
-    <link>https://tomaszkyc.github.io/blog/</link>
-    <description>Recent content in Blog on Tomasz Kyc Webpage and Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 19:05:17 +0200</lastBuildDate><atom:link href="https://tomaszkyc.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Timely new Flask project</title>
-      <link>https://tomaszkyc.github.io/blog/timely-new-flask-project/</link>
-      <pubDate>Sat, 03 Apr 2021 19:05:17 +0200</pubDate>
-      
-      <guid>https://tomaszkyc.github.io/blog/timely-new-flask-project/</guid>
-      <description>Hello there!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Tomasz Kyc Webpage and Blog</title><link>https://tomaszkyc.github.io/blog/</link><description>Recent content in Blog on Tomasz Kyc Webpage and Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 03 Apr 2021 19:05:17 +0200</lastBuildDate><atom:link href="https://tomaszkyc.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Timely new Flask project</title><link>https://tomaszkyc.github.io/blog/timely-new-flask-project/</link><pubDate>Sat, 03 Apr 2021 19:05:17 +0200</pubDate><guid>https://tomaszkyc.github.io/blog/timely-new-flask-project/</guid><description>Hello there!
 Today I&amp;rsquo;d like to present you my new Flask project called Timely. It came from not so popular apps to countdown time. I was searching the solution for myself to use it on mobile, desktop and tablet. I haven&amp;rsquo;t found such a good product so I make an own little app to help me with measuring my focus time.
-If you want to examine how it&amp;rsquo;s working and looking - check out the live demo of an app deployed on Google Cloud Platform.</description>
-    </item>
-    
-    <item>
-      <title>Christmas time and New Year&#39;s Eve - time for summary</title>
-      <link>https://tomaszkyc.github.io/blog/christmas-time-and-new-years-eve-time-for-summary/</link>
-      <pubDate>Wed, 23 Dec 2020 20:49:16 +0100</pubDate>
-      
-      <guid>https://tomaszkyc.github.io/blog/christmas-time-and-new-years-eve-time-for-summary/</guid>
-      <description>Hello fellows. I hope you&amp;rsquo;re doing well and maybe bake some delicious christmas cakes. That was a preety long year for me. Especially when I list some events there:
- Learning .NET Core and Angular Making diploma project and finishing my CS studies with 5.0 grade Developing my Java and Python skills Unexpected changing a job (which maybe I will describe in the future)  But now it&amp;rsquo;s time to slow down, take a deep breath and spend some time with closest people out there.</description>
-    </item>
-    
-    <item>
-      <title>Link Shorter First Project in Dotnet Core</title>
-      <link>https://tomaszkyc.github.io/blog/link-shorter-first-project-in-dotnet-core/</link>
-      <pubDate>Wed, 04 Mar 2020 20:49:16 +0100</pubDate>
-      
-      <guid>https://tomaszkyc.github.io/blog/link-shorter-first-project-in-dotnet-core/</guid>
-      <description>This took too long time, but here it is A while back, I&amp;rsquo;ve started learning .NET Core (and it&amp;rsquo;s still in progress). But as a result and in some way training I made an web app&amp;hellip; to make your links shorter!
+If you want to examine how it&amp;rsquo;s working and looking - check out the live demo of an app deployed on Google Cloud Platform.</description></item><item><title>Christmas time and New Year's Eve - time for summary</title><link>https://tomaszkyc.github.io/blog/christmas-time-and-new-years-eve-time-for-summary/</link><pubDate>Wed, 23 Dec 2020 20:49:16 +0100</pubDate><guid>https://tomaszkyc.github.io/blog/christmas-time-and-new-years-eve-time-for-summary/</guid><description>Hello fellows. I hope you&amp;rsquo;re doing well and maybe bake some delicious christmas cakes. That was a preety long year for me. Especially when I list some events there:
+Learning .NET Core and Angular Making diploma project and finishing my CS studies with 5.0 grade Developing my Java and Python skills Unexpected changing a job (which maybe I will describe in the future) But now it&amp;rsquo;s time to slow down, take a deep breath and spend some time with closest people out there.</description></item><item><title>Link Shorter First Project in Dotnet Core</title><link>https://tomaszkyc.github.io/blog/link-shorter-first-project-in-dotnet-core/</link><pubDate>Wed, 04 Mar 2020 20:49:16 +0100</pubDate><guid>https://tomaszkyc.github.io/blog/link-shorter-first-project-in-dotnet-core/</guid><description>This took too long time, but here it is A while back, I&amp;rsquo;ve started learning .NET Core (and it&amp;rsquo;s still in progress). But as a result and in some way training I made an web app&amp;hellip; to make your links shorter!
 Here you can check the repo with code and additional info.
-What next? Maybe another .NET Core project? I wanted to do this but there are also other skills I need to develop and they just can&amp;rsquo;t wait 😅 Also in this semester I have to write my thesis and pass 5 other exams soo a lot of work to do and not too much time.</description>
-    </item>
-    
-    <item>
-      <title>New project coming to town - about ASP.NET Core</title>
-      <link>https://tomaszkyc.github.io/blog/new-project-coming-to-town-about-asp-net-core/</link>
-      <pubDate>Mon, 23 Dec 2019 18:56:27 +0100</pubDate>
-      
-      <guid>https://tomaszkyc.github.io/blog/new-project-coming-to-town-about-asp-net-core/</guid>
-      <description>December is a great time to&amp;hellip; start learning new things. You know - the atmosphere of New Year&amp;rsquo;s resolution and bringing somethink new to&amp;hellip; your projects and skills.
-ASP.NET 3.5 Web Forms - what a &amp;hellip; At the universtity this year I&amp;rsquo;ve started classes &amp;ldquo;Web application programming&amp;rdquo;. I thought it would be&amp;hellip; wait for it&amp;hellip; breathtakingm but it is not. We are learning a little old. We are learning outdated technology which for me - it&amp;rsquo;s a little bit puzzling.</description>
-    </item>
-    
-    <item>
-      <title>Welcome Post</title>
-      <link>https://tomaszkyc.github.io/blog/welcome-post/</link>
-      <pubDate>Mon, 11 Nov 2019 20:57:01 +0100</pubDate>
-      
-      <guid>https://tomaszkyc.github.io/blog/welcome-post/</guid>
-      <description>Welcome to my webpage and I&amp;rsquo;m glad you&amp;rsquo;re reading this! This is a first post I&amp;rsquo;ve written here and probably not last :wink:.
-Why I created this website? That&amp;rsquo;s a tricky question. Probably because I wanted to gather information and knowledge in one place where I can share with others. Also it can be a space where I can share with you some materials about technologies I&amp;rsquo;m working with (checkout about section).</description>
-    </item>
-    
-  </channel>
-</rss>
+What next? Maybe another .NET Core project? I wanted to do this but there are also other skills I need to develop and they just can&amp;rsquo;t wait 😅 Also in this semester I have to write my thesis and pass 5 other exams soo a lot of work to do and not too much time.</description></item><item><title>New project coming to town - about ASP.NET Core</title><link>https://tomaszkyc.github.io/blog/new-project-coming-to-town-about-asp-net-core/</link><pubDate>Mon, 23 Dec 2019 18:56:27 +0100</pubDate><guid>https://tomaszkyc.github.io/blog/new-project-coming-to-town-about-asp-net-core/</guid><description>December is a great time to&amp;hellip; start learning new things. You know - the atmosphere of New Year&amp;rsquo;s resolution and bringing somethink new to&amp;hellip; your projects and skills.
+ASP.NET 3.5 Web Forms - what a &amp;hellip; At the universtity this year I&amp;rsquo;ve started classes &amp;ldquo;Web application programming&amp;rdquo;. I thought it would be&amp;hellip; wait for it&amp;hellip; breathtakingm but it is not. We are learning a little old. We are learning outdated technology which for me - it&amp;rsquo;s a little bit puzzling.</description></item><item><title>Welcome Post</title><link>https://tomaszkyc.github.io/blog/welcome-post/</link><pubDate>Mon, 11 Nov 2019 20:57:01 +0100</pubDate><guid>https://tomaszkyc.github.io/blog/welcome-post/</guid><description>Welcome to my webpage and I&amp;rsquo;m glad you&amp;rsquo;re reading this! This is a first post I&amp;rsquo;ve written here and probably not last :wink:.
+Why I created this website? That&amp;rsquo;s a tricky question. Probably because I wanted to gather information and knowledge in one place where I can share with others. Also it can be a space where I can share with you some materials about technologies I&amp;rsquo;m working with (checkout about section).</description></item></channel></rss>

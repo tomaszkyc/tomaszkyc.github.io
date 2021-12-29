@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>welcome on Tomasz Kyc Webpage and Blog</title>
-    <link>https://tomaszkyc.github.io/tags/welcome/</link>
-    <description>Recent content in welcome on Tomasz Kyc Webpage and Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 11 Nov 2019 20:57:01 +0100</lastBuildDate><atom:link href="https://tomaszkyc.github.io/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Welcome Post</title>
-      <link>https://tomaszkyc.github.io/blog/welcome-post/</link>
-      <pubDate>Mon, 11 Nov 2019 20:57:01 +0100</pubDate>
-      
-      <guid>https://tomaszkyc.github.io/blog/welcome-post/</guid>
-      <description>Welcome to my webpage and I&amp;rsquo;m glad you&amp;rsquo;re reading this! This is a first post I&amp;rsquo;ve written here and probably not last :wink:.
-Why I created this website? That&amp;rsquo;s a tricky question. Probably because I wanted to gather information and knowledge in one place where I can share with others. Also it can be a space where I can share with you some materials about technologies I&amp;rsquo;m working with (checkout about section).</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>welcome on Tomasz Kyc Webpage and Blog</title><link>https://tomaszkyc.github.io/tags/welcome/</link><description>Recent content in welcome on Tomasz Kyc Webpage and Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Nov 2019 20:57:01 +0100</lastBuildDate><atom:link href="https://tomaszkyc.github.io/tags/welcome/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome Post</title><link>https://tomaszkyc.github.io/blog/welcome-post/</link><pubDate>Mon, 11 Nov 2019 20:57:01 +0100</pubDate><guid>https://tomaszkyc.github.io/blog/welcome-post/</guid><description>Welcome to my webpage and I&amp;rsquo;m glad you&amp;rsquo;re reading this! This is a first post I&amp;rsquo;ve written here and probably not last :wink:.
+Why I created this website? That&amp;rsquo;s a tricky question. Probably because I wanted to gather information and knowledge in one place where I can share with others. Also it can be a space where I can share with you some materials about technologies I&amp;rsquo;m working with (checkout about section).</description></item></channel></rss>
