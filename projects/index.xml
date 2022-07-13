@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Tomasz Kyc Webpage and Blog</title>
+    <link>https://tomaszkyc.github.io/projects/</link>
+    <description>Recent content in Projects on Tomasz Kyc Webpage and Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 19:13:15 +0200</lastBuildDate><atom:link href="https://tomaszkyc.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Timely</title>
+      <link>https://tomaszkyc.github.io/projects/timely/</link>
+      <pubDate>Sat, 03 Apr 2021 19:13:15 +0200</pubDate>
+      
+      <guid>https://tomaszkyc.github.io/projects/timely/</guid>
+      <description>Timely is a free countdown app which helps you measure focus time. You can see the live demo here. Check out the Github repository to find more details.</description>
+    </item>
+    
+    <item>
+      <title>Database connection tester</title>
+      <link>https://tomaszkyc.github.io/projects/database-connection-tester/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomaszkyc.github.io/projects/database-connection-tester/</guid>
+      <description>Simple database connection tester console application. Stupidly easy to use and supports Microsoft SQL Server, Oracle and MySQL.
+Click here to go to GitHub repo. 💪</description>
+    </item>
+    
+    <item>
+      <title>Film details searcher</title>
+      <link>https://tomaszkyc.github.io/projects/film-details-searcher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomaszkyc.github.io/projects/film-details-searcher/</guid>
+      <description>film_details_searcher is a small tool to search film details right from the command line. It use a polish movie online website Filmweb and Google to find a result.
+Click here to go to GitHub repo. 💪</description>
+    </item>
+    
+    <item>
+      <title>Recognize photo app</title>
+      <link>https://tomaszkyc.github.io/projects/recognize-photo-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomaszkyc.github.io/projects/recognize-photo-app/</guid>
+      <description>Simple app to recognize photo objects using Microsoft Azure Cognitive Services.
+Click here to go to GitHub repo. 💪</description>
+    </item>
+    
+  </channel>
+</rss>

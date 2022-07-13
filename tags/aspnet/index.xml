@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aspnet on Tomasz Kyc Webpage and Blog</title>
+    <link>https://tomaszkyc.github.io/tags/aspnet/</link>
+    <description>Recent content in aspnet on Tomasz Kyc Webpage and Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2019 18:56:27 +0100</lastBuildDate><atom:link href="https://tomaszkyc.github.io/tags/aspnet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New project coming to town - about ASP.NET Core</title>
+      <link>https://tomaszkyc.github.io/blog/new-project-coming-to-town-about-asp-net-core/</link>
+      <pubDate>Mon, 23 Dec 2019 18:56:27 +0100</pubDate>
+      
+      <guid>https://tomaszkyc.github.io/blog/new-project-coming-to-town-about-asp-net-core/</guid>
+      <description>December is a great time to&amp;hellip; start learning new things. You know - the atmosphere of New Year&amp;rsquo;s resolution and bringing somethink new to&amp;hellip; your projects and skills.
+ASP.NET 3.5 Web Forms - what a &amp;hellip;At the universtity this year I&amp;rsquo;ve started classes &amp;ldquo;Web application programming&amp;rdquo;. I thought it would be&amp;hellip; wait for it&amp;hellip; breathtakingm but it is not. We are learning a little old. We are learning outdated technology which for me - it&amp;rsquo;s a little bit puzzling.</description>
+    </item>
+    
+  </channel>
+</rss>
